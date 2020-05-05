@@ -5,6 +5,7 @@
 DETECTOR_MODEL_PATH=./models/intel/pedestrian-detection-adas-0002/FP16/pedestrian-detection-adas-0002.xml
 # rtsp or webcam (0) or video file
 INPUT_FILE=0
+# HDDL, MYRIAD, GPU, FPGA
 ACCELERATOR=CPU
 ###########################
 
